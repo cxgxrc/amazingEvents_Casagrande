@@ -39,6 +39,22 @@ height: 70vh;
 background-color: blue;
 }
 
+.form-check {
+    padding: 1rem;
+    margin: 1rem;
+    margin-top: 0.5rem;
+    padding-top: 0.5rem;
+}
+
+.search {
+
+    padding: 0.5rem;
+    width: 20%;
+}
+
+section {
+min-width: 100%;
+}
 
 
 
@@ -56,3 +72,4 @@ height: 8vh;
     padding: 1rem;
     margin: 1rem;
 }
+
