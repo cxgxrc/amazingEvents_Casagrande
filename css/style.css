@@ -1,6 +1,14 @@
 
 * {
     box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+    scroll-behavior: smooth;
+    
+}
+
+img {
+    max-width: 100%;
 }
 
 header {
@@ -27,10 +35,24 @@ nav {
 }
 
 main {
-height: 65vh;
-background-color: black;
+height: 70vh;
+background-color: blue;
 }
 
+
+
+
 footer {
-height: 15vh;
+height: 8vh;
+}
+
+.nav-link>img {
+    height: 3rem;
+ 
+}
+
+.navbar-text {
+    font-size: larger;
+    padding: 1rem;
+    margin: 1rem;
 }
