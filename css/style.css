@@ -35,8 +35,21 @@ nav {
 }
 
 main {
-height: 70vh;
-background-color: blue;
+height: 230vh;
+background-color: black;
+}
+
+.banner {
+    height: 20vh;
+    width: auto;
+    background-image:url(/amazingEvents_Casagrande/assets/optional_banner_3.jpg);
+    background-size: cover;
+    text-align: center;
+    color: aliceblue;
+}
+
+h1 {
+    padding: 2rem;
 }
 
 .form-check {
@@ -48,14 +61,23 @@ background-color: blue;
     margin-bottom: 0.5rem;
 }
 
-.search {
-
-    padding: 0.5rem;
-    width: 30vw;
+#searchNav {
+    height: 7vh;
 }
 
-section {
-min-width: 100%;
+.card {
+    padding: 1rem;
+    margin: 2rem;
+    width: 40vw;
+    height: 45vw;
+    text-align: center;
+    
+}
+
+#cardDetails {
+width: 35vw;
+justify-content: space-between;
+
 }
 
 
