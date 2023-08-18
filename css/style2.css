@@ -26,8 +26,6 @@ max-height: 50vh;
     height: 30vh;
 }
 
-@media (min-width: 992px) {
-    .carousel-inner {
-        height: 30vh;
-    }
+main {
+    height: 100vh;
 }
