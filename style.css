@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+
+img {
+    max-width: 100%;
+}
+
+header {
+    min-height: 30vh;
+}
+
+.nav-link {
+    font-size:larger;
+    padding-right: 5rem;
+    margin-right: 5rem;
+}
+
+.nav-item {
+    width: 10rem;
+}
+
+.navbar {
+    background-color: grey;
+    
+}
+
+
+.carouselImg {
+    height: 20vh;
+    object-fit: cover;
+    
+    
+
+}
+
+h1 {
+    position:absolute;
+    top: 24vh;
+    right: 2vw;
+    color: aliceblue;
+    font-size: 3rem;
+    padding: 0%;
+}
